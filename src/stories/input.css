@@ -1,0 +1,27 @@
+.app-field {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+}
+
+.app-field__input {
+    width: 100%;
+    border: 1px solid darkslategray;
+    height: 40px;
+}
+
+.app-field__input_small {
+    height: 30px;
+}
+
+.app-field__input__medium {
+    height: 45px;
+}
+
+.app-field__input_large {
+    height: 55px;
+}
+
+input.red {
+    border: 1px solid red;
+}
