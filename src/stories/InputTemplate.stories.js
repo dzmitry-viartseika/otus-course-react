@@ -1,7 +1,6 @@
 import React from 'react';
 
 import { InputTemplate } from './InputTemplate';
-import { Button } from "./Button";
 
 export default {
   title: 'Example/InputTemplate',
